@@ -1,7 +1,12 @@
 add (bash script)
 =================
-adds a text remark to a text-based file
-usage: add <file> <msg>
+adds a text remark to the end of a text-based file
+
+usage
+-----
+'''
+add <file> <msg>
+'''
 
 example usage at shell prompt
 -----------------------------
