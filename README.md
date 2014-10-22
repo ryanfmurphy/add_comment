@@ -13,7 +13,7 @@ add <file> <msg>
 Example usage at shell prompt
 -----------------------------
 ```
-notes "#todo Call that cool girl I met at that party"
+notes "#todo Call that cool person I met at that party"
 ```
 
 
@@ -35,7 +35,7 @@ Original Code
 
 # add (bash script): adds a text remark to a text-based file
 #  example usage at shell prompt:
-#   $ notes "#todo Call that nice girl I met at that party"
+#   $ notes "#todo Call that cool person I met at that party"
 #  description of behavior:
 #   leaves an extra newline between the new remark and the existing content
 
