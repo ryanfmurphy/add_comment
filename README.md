@@ -2,11 +2,13 @@ add (bash script)
 =================
 adds a text remark to the end of a text-based file
 
+
 Usage
 -----
 ```
 add <file> <msg>
 ```
+
 
 Example usage at shell prompt
 -----------------------------
@@ -14,11 +16,20 @@ Example usage at shell prompt
 notes "#todo Call that cool girl I met at that party"
 ```
 
+
 Description of behavior
 -----------------------
+
 Appends remark to end of text file.
 
 Leaves an extra newline between the new remark and the existing content.
+
+
+Limitations / #Todo
+-------------------
+
+File must exist / #todo check if file exists and if not, create it
+
 
 Original Code
 -------------
