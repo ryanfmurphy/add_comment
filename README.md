@@ -25,8 +25,7 @@ Description of behavior
 
 Limitations
 -----------
-
-File must exist.
+* File must exist.
 
 
 Original Code
