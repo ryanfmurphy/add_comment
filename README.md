@@ -51,8 +51,8 @@ Austin Coding Academy challenge!
 * Create a script that does the same thing in Python.
 * Make it in a function `def add_comment(string_data, remark)` that adds the remark to the string_data and returns the string_data
 * Remember to leaves an extra newline between the new remark and the existing content, but don't leave 2!
-* BONUS 1: Make a function `def add_comment_to_file(filename, remark)` that uses your first function `add_comment` to add the `remark` to the file named `filename`.
-* BONUS 2: Use `if __name__ == "__main__"` to let your python script be used from the command line just like my bash script.
+* BONUS_1: Make a function `def add_comment_to_file(filename, remark)` that uses your first function `add_comment` to add the `remark` to the file named `filename`.
+* BONUS_2: Use `if __name__ == "__main__"` to let your python script be used from the command line just like my bash script.
 
 
 Todo
