@@ -10,7 +10,9 @@ add <file> <msg>
 
 example usage at shell prompt
 -----------------------------
+```
 notes "#todo Call that cool girl I met at that party"
+```
 
 description of behavior
 -----------------------
