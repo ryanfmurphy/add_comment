@@ -2,7 +2,7 @@ add (bash script)
 =================
 adds a text remark to the end of a text-based file
 
-usage
+Usage
 -----
 ```
 add <file> <msg>
