@@ -25,10 +25,10 @@ Appends remark to end of text file.
 Leaves an extra newline between the new remark and the existing content.
 
 
-Limitations / #Todo
--------------------
+Limitations
+-----------
 
-File must exist / #todo check if file exists and if not, create it
+File must exist.
 
 
 Original Code
@@ -47,4 +47,11 @@ msg="$2"
 if [[ `tail -n 1 "$file"` ]];   then echo "" | cat >> "$file";   fi
 echo -e "$msg" | cat >> "$file"
 ```
+
+
+Todo
+----
+
+check if file exists and if not, create it
+
 
