@@ -8,19 +8,19 @@ usage
 add <file> <msg>
 ```
 
-example usage at shell prompt
+Example usage at shell prompt
 -----------------------------
 ```
 notes "#todo Call that cool girl I met at that party"
 ```
 
-description of behavior
+Description of behavior
 -----------------------
-appends remark to text file
+Appends remark to end of text file.
 
-leaves an extra newline between the new remark and the existing content
+Leaves an extra newline between the new remark and the existing content.
 
-original code
+Original Code
 -------------
 ```
 #!/bin/bash
