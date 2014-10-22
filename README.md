@@ -10,6 +10,7 @@ notes "#todo Call that cool girl I met at that party"
 description of behavior
 -----------------------
 appends remark to text file
+
 leaves an extra newline between the new remark and the existing content
 
 original code
