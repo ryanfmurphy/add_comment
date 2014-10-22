@@ -19,10 +19,8 @@ notes "#todo Call that cool girl I met at that party"
 
 Description of behavior
 -----------------------
-
-Appends remark to end of text file.
-
-Leaves an extra newline between the new remark and the existing content.
+* Appends remark to end of text file.
+* Leaves an extra newline between the new remark and the existing content.
 
 
 Limitations
@@ -51,7 +49,6 @@ echo -e "$msg" | cat >> "$file"
 
 Todo
 ----
-
-check if file exists and if not, create it
+* Check if file exists and if not, create it
 
 
