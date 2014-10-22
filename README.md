@@ -46,8 +46,8 @@ echo -e "$msg" | cat >> "$file"
 ```
 
 
-Austin Coding Academy challenge!
---------------------------------
+(Austin Coding Academy)[http://www.austincodingacademy.com/] challenge!
+-----------------------------------------------------------------------
 * Create a script that does the same thing in Python.
 * Make it in a function `def add_comment(string_data, remark)` that adds the remark to the string_data and returns the string_data
 * Remember to leaves an extra newline between the new remark and the existing content, but don't leave 2!
@@ -57,9 +57,11 @@ Austin Coding Academy challenge!
 
 Todo
 ----
-* Check if file exists and if not, create it
+* Check if file exists and, if not, create it.
 
 
-Additional Recommendations
---------------------------
+General Notes
+-------------
+* If `add` is too fundamental general of a name for your environment / namespace, I recommend the alias `add-comment` or `add_comment`.
+* Contributions welcome!
 
