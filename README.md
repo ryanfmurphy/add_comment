@@ -1,5 +1,5 @@
-add - a simple Bash script
-==========================
+add_comment - a simple Bash script
+==================================
 Adds a text remark to the end of a text-based file.
 
 
@@ -34,7 +34,7 @@ Don't worry if you don't understand this Bash code.  Your goal is to write Pytho
 ```
 #!/bin/bash
 
-# add (bash script): adds a text remark to a text-based file
+# add_comment (bash script): adds a text remark to a text-based file
 #  example usage at shell prompt:
 #   $ add_comment notes "#todo Call that cool person I met at that party"
 #  description of behavior:
