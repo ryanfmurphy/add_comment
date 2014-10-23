@@ -30,7 +30,6 @@ Limitations
 
 Bash Code
 ---------
-Don't worry if you don't understand this Bash code.  Your goal is to write Python code that does follows the "Descriptiong of Behavior".
 ```
 #!/bin/bash
 
